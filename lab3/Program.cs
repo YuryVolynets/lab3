@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 
+
 namespace lab3
 {
     class Program
